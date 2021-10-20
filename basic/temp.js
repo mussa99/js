@@ -37,4 +37,5 @@ console.log(greater(-1, -10))
 console.log(greater(8.5, 100))
 
 console.log(greater(0, 0))
+// done else and if 
 

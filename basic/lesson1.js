@@ -4,7 +4,8 @@ console.log('hello world')
 
 let details= {'firstname': 'mussa', 'lastname': 'saeed'}
 let list= [1,2,3,4,5,6]
-details.push(age= 16)
+details.age=16
+console.log(details)
 
 
 function convert(fahrenheit)  {
@@ -13,3 +14,5 @@ function convert(fahrenheit)  {
 function description(fruits)  {
     for(let fruit of fruits){console.log (fruit + ' is a fruit')  }
 }
+let degrees = 95;
+console.log(convert(degrees)+  ' celcius is ' + degrees + ' fahrenight')

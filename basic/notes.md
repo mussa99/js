@@ -212,4 +212,4 @@ undefined
 > fixedObject = 3  // change the variable type from object to number
 Uncaught TypeError: Assignment to constant variable.
 ```
-
+a function is when a block of codes that you give it a name becomes easier to use and you dont have to rewrite those blocke of code. 
